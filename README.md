@@ -1,2 +1,4 @@
-# videotech_notes
-Notes on Video technology
+# Notes on Video technology
+
+* [ffmpeg](./notes/ffmpeg.md)
+* Streaming
